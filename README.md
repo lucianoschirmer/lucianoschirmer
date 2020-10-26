@@ -25,9 +25,7 @@ These are some of the technologies and tools that I work with:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/lucianoschirmer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoschirmer&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianoschirmer&show_icons=true&theme=light&line_height=27" alt="My github stats"/>
-</a>
+
