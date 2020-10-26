@@ -28,3 +28,6 @@ These are some of the technologies and tools that I work with:
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoschirmer&theme=light&hide_langs_below=1" />
 </a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianoschirmer&show_icons=true&theme=light&line_height=27" alt="My github stats"/>
+</a>
